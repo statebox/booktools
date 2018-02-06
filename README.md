@@ -10,7 +10,7 @@ Docker image with
 - `pandoc`
 - `latexmk`
 - `ghostscript` and `imagemagick` to convert PDF to PNG
-- Python bindings `pandocfilters`
+- Python bindings [`pandocfilters`](https://github.com/jgm/pandocfilters)
 
 Some other stuff, look at the `Dockerfile`.
 
